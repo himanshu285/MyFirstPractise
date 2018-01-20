@@ -1,0 +1,1 @@
+cmd_/home/ansh/ddpractise/practise1/practise1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/ansh/ddpractise/practise1/practise1.ko /home/ansh/ddpractise/practise1/practise1.o /home/ansh/ddpractise/practise1/practise1.mod.o ;  true
